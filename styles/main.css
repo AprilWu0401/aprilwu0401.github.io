@@ -775,15 +775,23 @@ td {
   font-weight: bold;
 }
 
-      html,
-body {
-	box-sizing: border-box;
-	margin: 0;
-	height: 100%;
-	background: #69667b;
-	display: flex;
-	justify-content: center;
-	align-items: center;
-	font-family: sans-serif;
-}
+      .main {
+        background: #49485E;
+      }
+    
+      body {
+        background: #49485E;
+      }
+    
+      body {
+        color: #f8f9fa;
+      }
+    
+      a {
+        color: #f6c9c1;
+      }
+    
+      a:hover {
+        color: #9775fa;
+      }
     
