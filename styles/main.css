@@ -774,3 +774,16 @@ td {
 .hljs-strong {
   font-weight: bold;
 }
+
+      html,
+body {
+	box-sizing: border-box;
+	margin: 0;
+	height: 100%;
+	background: #69667b;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-family: sans-serif;
+}
+    
